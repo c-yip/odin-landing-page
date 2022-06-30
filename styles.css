@@ -2,6 +2,10 @@ body {
     margin: 0;
     font-family: 'League Gothic', sans-serif;
     font-family: 'Roboto', sans-serif;
+    /* try this in the event you don't get everything to align*/
+    /* display: flex;
+    flex-direction: column;
+    align-items: center; */
 }
 
 .header {
