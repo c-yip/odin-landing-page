@@ -94,9 +94,25 @@ a {
 .image {
     display: flex;
     flex-direction: column;
-    width: 200px;
+    max-width: 400px;
 }
 
 .quote {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: #E5E7EB;
+    padding: 75px;
+}
+
+.quote-text {
+    padding: 0 250px;   
+    font-size: 36px;
+    color: #1F2937;
+    font-style: italic;
+    font-weight: 300;
+}
+
+.quote-source {
     display: flex;
 }
