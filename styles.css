@@ -143,3 +143,11 @@ a {
     padding: 7px 20px;
     color: white;
 }
+
+.footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #1F2937;
+    color: #E5E7EB;
+}
