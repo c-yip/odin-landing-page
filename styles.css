@@ -119,3 +119,27 @@ a {
     padding-right: 260px;
     margin: 0;
 }
+
+.bot-button {
+    display: flex;
+    background-color: #3882F6;
+    margin: 125px 200px;
+    padding: 100px;
+}
+
+.bot-button h2 {
+    color: white;
+}
+
+.bot-button p {
+    color: #E5E7EB;
+    font-size: 18px;
+}
+
+.bot-button button{
+    background-color: #3882F6;
+    border-color: white;
+    border-radius: 10px;
+    padding: 7px 20px;
+    color: white;
+}
